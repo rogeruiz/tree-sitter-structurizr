@@ -1,0 +1,30 @@
+{
+  "name": "tree-sitter-structurizr-dsl",
+  "version": "1.0.0",
+  "description": "A Tree-sitter parser for Structurizr DSL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogeruiz/tree-sitter-structurizr-dsl.git"
+  },
+  "keywords": [
+    "c4model",
+    "structurizr",
+    "tree-sitter"
+  ],
+  "author": "Roger Steve Ruiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rogeruiz/tree-sitter-structurizr-dsl/issues"
+  },
+  "homepage": "https://github.com/rogeruiz/tree-sitter-structurizr-dsl#readme",
+  "dependencies": {
+    "nan": "^2.17.0"
+  },
+  "devDependencies": {
+    "tree-sitter-cli": "^0.20.7"
+  }
+}
